@@ -1,0 +1,46 @@
+header{ background-color:black;
+    color: white;
+    text-align: center;
+    font-size: 70px;
+    font-family:cursive;
+}
+
+nav{
+color: white;
+font-size: 100px;
+text-align: left;
+font-family: 'Times New Roman', Times, serif;
+}
+div{ background-image: url(https://zonagatos.com/wp-content/uploads/2022/05/curiosidades-de-los-gatos-negros.jpg);
+background-repeat: no-repeat;
+background-size:contain;
+background-color:rgb(180, 180, 60);
+}
+
+input{
+    font-size:30px;
+    text-align: center;
+}
+
+button{font-size: 20px;}
+
+aside{
+
+    font-size: 30px;
+    font-family: cursive;
+    text-align:left;
+    margin-left: 40px;
+}
+
+main{
+    font-family:cursive;
+    font-size: 20px;
+    margin-left: 30px;
+    
+}
+footer{
+
+    font-family: cursive;
+    font-size: 30px;
+    text-align:center;
+}
